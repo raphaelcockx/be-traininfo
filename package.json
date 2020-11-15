@@ -1,0 +1,23 @@
+{
+  "name": "be-traininfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateDistances.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelcockx/be-traininfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelcockx/be-traininfo/issues"
+  },
+  "homepage": "https://github.com/raphaelcockx/be-traininfo#readme",
+  "dependencies": {
+    "geolib": "^3.3.1"
+  }
+}
